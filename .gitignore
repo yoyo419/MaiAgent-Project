@@ -1,0 +1,46 @@
+.venv
+.codegpt
+
+# 敏感資訊
+.env.example
+*.pem
+*.key
+*.crt
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虛擬環境
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+
+# 輸出目錄
+output/
+
+# 其他
+.DS_Store
+.idea/
+.vscode/

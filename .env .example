@@ -1,0 +1,11 @@
+# API 配置
+API_BASE_URL=http://example.com/api/v1/
+API_KEY=your_api_key_here
+
+# 其他服務的憑證
+WEB_CHAT_ID=your_web_chat_id
+CHATBOT_ID=your_chatbot_id
+
+# 儲存空間
+STORAGE_URL=https://your-storage-url.com/bucket
+
