@@ -1,0 +1,8 @@
+requests==2.32.3
+Flask==3.0.3
+black==24.3.0
+pre-commit==3.5.0
+python-dotenv==1.0.1
+sseclient-py==1.8.0
+requests_cache>=0.9.0
+git+https://github.com/microsoft/markitdown.git#egg=markitdown[all]
